@@ -1,0 +1,16 @@
+[
+  {
+    "document": "examples/sample_chapter.pdf",
+    "expected": {
+      "title": "Coordination Compounds",
+      "author": null,
+      "document_type": "textbook chapter",
+      "subject_domain": "Inorganic chemistry",
+      "keywords": [
+        "coordination compounds", "ligands", "werner's theory",
+        "crystal field theory", "isomerism", "chelate effect"
+      ],
+      "summary": "A chapter introducing coordination compounds, covering Werner's coordination theory, nomenclature, and bonding models including valence bond and crystal field theory."
+    }
+  }
+]
